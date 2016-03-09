@@ -1,4 +1,4 @@
-package chapter_1_11;
+package chapter_1.chapter_1_11;
 
 public class Result {
 	private String name;

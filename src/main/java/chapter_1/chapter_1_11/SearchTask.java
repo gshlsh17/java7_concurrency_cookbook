@@ -1,4 +1,4 @@
-package chapter_1_11;
+package chapter_1.chapter_1_11;
 
 import java.util.Date;
 import java.util.Random;
