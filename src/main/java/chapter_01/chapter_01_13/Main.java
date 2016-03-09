@@ -1,4 +1,4 @@
-package chapter_1.chapter_1_13;
+package chapter_01.chapter_01_13;
 
 public class Main {
 

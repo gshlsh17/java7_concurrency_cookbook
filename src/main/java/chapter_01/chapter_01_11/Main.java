@@ -1,4 +1,4 @@
-package chapter_1.chapter_1_11;
+package chapter_01.chapter_01_11;
 
 import java.util.concurrent.TimeUnit;
 
