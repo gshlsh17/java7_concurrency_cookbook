@@ -23,7 +23,8 @@ public class Main {
 		// Starts the Thread
 		thread.start();
 
-		System.out.printf("Main Thread status: %s\n", thread.getState());
+//		System.out.printf("Main Thread status: %s\n", thread.getState());
+		System.out.printf("Main Thread status: %s\n", Thread.currentThread().getState());
 		try {
 			thread.join();
 		} catch (InterruptedException e) {
